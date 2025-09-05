@@ -18,3 +18,7 @@ package-lock.json
 
 # Ignore folders related to IDEs
 .vscode/
+
+
+# Additional ignores can be added below this line
+CLAUDE.md
