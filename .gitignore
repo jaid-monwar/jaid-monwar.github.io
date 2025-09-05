@@ -21,4 +21,6 @@ package-lock.json
 
 
 # Additional ignores can be added below this line
+.claude
+claude.md
 CLAUDE.md
