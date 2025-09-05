@@ -27,7 +27,7 @@ author:
   pronouns         : "he/him"  
   bio              : "Research Intern at IntelligentCATLab, University of Illinois Urbana-Champaign.<br>Research Intern at LUCID Lab, Towson University.<br>Software Engineer at Yobo AI."
   location         : "Dhaka, Bangladesh"
-  employer         : "Bangladesh University of Engineering and Technology"
+  employer         : # "Bangladesh University of Engineering and Technology"
   uri              : # URL
   email            : "jaidmonwar.official@gmail.com" 
 
@@ -37,7 +37,7 @@ author:
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0006-4822-446X"
+  orcid            : # "https://orcid.org/0009-0006-4822-446X"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
