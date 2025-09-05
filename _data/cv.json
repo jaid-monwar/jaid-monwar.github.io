@@ -1,8 +1,8 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
+    "name": "Jaid Monwar Chowdhury",
+    "email": "jaidmonwar.official@gmail.com",
+    "phone": "+8801781737438",
     "website": "https://academicpages.github.io",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
@@ -25,8 +25,8 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "jaid-monwar",
+        "url": "https://github.com/jaid-monwar"
       }
     ]
   },
