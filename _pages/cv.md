@@ -77,13 +77,13 @@ Competitions & Achievements
   * *Second Runners up*
   * [Led the team to secure 2nd runners-up out of 30+ teams nationwide, in developing Remedi](https://www.facebook.com/share/p/JSGH6TWqJvs3JjU9/), a telemedicine platform powered by an AI chatbot (Intelligent Machines API) to help patients self-diagnose based on their health symptoms, providing accurate potential diagnoses through an intuitive interface
 
-* **[NEST 2021 (Business Competition)](https://www.facebook.com/share/EcxSYK4bh54g7vK4/)** - Nov 2021
+<!-- * **[NEST 2021 (Business Competition)](https://www.facebook.com/share/EcxSYK4bh54g7vK4/)** - Nov 2021
   * *Top 5 Startups*
   * [Led the team and co-founded UDairy](https://www.facebook.com/share/EcxSYK4bh54g7vK4/), a startup that reached the top 5 out of 50+ teams nationwide, securing 30,000 BDT prize money for developing a platform to streamline dairy production and management
 
 * **[Hult Prize Regional Winners 2021 (Business Competition)](https://www.linkedin.com/posts/salmansayeed5345_another-achievement-for-udairy-couldnt-activity-6787399696546721792-CU6n?utm_source=share&utm_medium=member_desktop)** - Feb 2021
   * *First Runners up*
-  * Led the UDairy startup, which aimed to revolutionize the milk industry by developing genetically engineered milk requiring only 10% water, 1% land, and 0% cows, making it a sustainable solution for lactose-intolerant individuals
+  * Led the UDairy startup, which aimed to revolutionize the milk industry by developing genetically engineered milk requiring only 10% water, 1% land, and 0% cows, making it a sustainable solution for lactose-intolerant individuals -->
 
 * **Olympiads** - 2020
   * **Physics Olympiad**
