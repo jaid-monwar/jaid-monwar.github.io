@@ -16,27 +16,25 @@ Education
 Research Experience
 ======
 * [Prof. Reyhaneh Jabbarvand](https://reyhaneh.cs.illinois.edu/)'s Lab, University of Illinois Urbana-Champaign (June 2025 -- Present)
-  * Developing a framework to generate unit tests across multiple programming languages (C, Java, and Python)
-  * Designed tools and workflows for enhanced reliability and maximise code coverage
-  * Wrote a modular component to provide the agent with multi-language parsing and generation capabilities
-  * Implemented a semantic analysis module to deepen the agent's program understanding
-  * Conducted evaluations of scalability, reliability and test coverage enhancements
+  * Designing a multi-language framework for automated generation of semantically meaningful unit tests across C, Java, and Python using Large Language Models.
+  * Integrated advanced testing methodologies including fuzzing (AFL++) and symbolic execution (KLEE) to enhance code coverage and cross-language parsing capabilities
+  * Implemented a hybrid test oracle generation system combining static analysis with dynamic execution traces for enhanced test reliability
+  * Co-authoring a paper on the framework, preparing to-be submitted at **ISSTA 2026**
 
 * [Prof. Anindya Iqbal](https://scholar.google.com/citations?user=jAuiNFgAAAAJ&hl=en)'s Lab, BUET (March 2025 -- Present)
-  * Developed an agentic framework that translates natural language test cases into executable Web UI test scripts
-  * Developed the Web Agent architecture to enable autonomous Web UI traversal
-  * Implemented and deployed the end-to-end backend and frontend infrastructure for the research framework
-  * Curated a dataset of natural language test cases from real-world websites for evaluation
-  * Conducted evaluations of maintainability, robustness, and quality  of the scripts against industry-standard tools
+  * Developed an automated framework leveraging LLMs to translate natural language test cases into executable Playwright test scripts for automated Web UI testing
+    * Implemented the Web Agent architecture for autonomous Web UI traversal with comprehensive trace logging of element interactions
+    * Constructed and validated a comprehensive dataset of natural language test cases from production web applications for systematic framework evaluation
+  * Developed a scalable full-stack inference system for deploying and serving locally fine-tuned LLMs
+    * Implemented automated pipelines for generating software use cases from business requirements and synthesizing corresponding test cases
   * Co-first authored a paper soon to-be submitted at **FSE 2026**
 
 Work Experience
 ======
 * Remote Full Stack Engineer, Yobo AI, Canada (June 2024 -- Present)
-  * Co-developed an AI-powered phone-call agent to automate task-oriented customer interactions for restaurants
-  * Led the design of a multi-step reasoning pipeline that dynamically retrieves and injects relevant menu data into the LLM's context, enabling queries on large-scale knowledge bases
-  * Designed prompts and functions for intelligent tool calling
-  * Contributed to the development of a dynamic VAD system for a seamless customer experience
+  * Developed a voice-based conversational AI agent for automating concurrent task-oriented restaurant operations (delivery, pickup, reservation, FAQs)
+  * Led the design of a dynamic context injection pipeline that retrieves and integrates specific knowledge into LLMs, enabling efficient querying of large-scale knowledge bases
+  * Engineered the end-to-end delivery feature, including address capturing, validation using Google Maps API, and automated delivery acceptance/rejection based on distance calculation and dynamic delivery fee integration
   
 Programming Skills
 ======
