@@ -21,6 +21,7 @@ Outside of my academic research, I love hacking new ideas and bringing them to l
 
 # Research Interests
 
+- Software Engineering
 - AI for Software
 - Software Testing
 - Systems
