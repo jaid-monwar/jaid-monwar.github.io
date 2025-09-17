@@ -17,7 +17,7 @@ Outside of my academic research, I love hacking new ideas and bringing them to l
 
 > *"Hang on to your dreams Chip. The Future is built on dreams!"*
 >
-> — The Transformers (🤖) animated series 
+> — The Transformers animated series 
 
 # Research Interests
 
