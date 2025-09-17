@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "jaid-monwar-profile.jpg"
   name             : "Jaid Monwar Chowdhury"
-  pronouns         : "he/him"  
+  pronouns         : # "he/him"  
   bio              : "Research Intern at IntelligentCATLab, University of Illinois Urbana-Champaign.<br>Research Intern at LUCID Lab, Towson University.<br>Software Engineer at Yobo AI."
   location         : "Dhaka, Bangladesh"
   employer         : # "Bangladesh University of Engineering and Technology"
